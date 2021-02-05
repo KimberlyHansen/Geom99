@@ -1,7 +1,3 @@
-body {
-    background-color: #DAB6C4
-  }
-
 h1 {
   font-size: 30pt;
   font-weight: bold;
@@ -14,6 +10,12 @@ h2 {
 
 p {
   font-size: 12pt;
+}
+
+.title {
+  background-color: #DAB6C4;
+  text-align: center;
+  padding: 15px;
 }
 
 .stuff {
@@ -31,5 +33,5 @@ p {
   background-color: #DAB6C4;
   text-align: center;
   height: 50px;
-  padding: 20px;
+  padding: 10px;
 }
