@@ -1,3 +1,24 @@
 body {
     background-color: #DAB6C4
   }
+
+.h1 {
+  font-size: 30pt;
+  font-weight: bold;
+  color: #7B886F;
+}
+
+.h2 {
+  font-size: 20pt;
+  font-weight: bold;
+  background-color: #FEFFA5;
+}
+
+.p {
+  font-size: 12pt;
+}
+
+.footnote {
+  font-size: 12pt;
+  background-color: #DAB6C4;
+}
