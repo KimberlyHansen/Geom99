@@ -28,6 +28,12 @@ p {
   text-align: left;
 }
 
+.map {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
 .footnote {
   font-size: 12pt;
   background-color: #DAB6C4;
