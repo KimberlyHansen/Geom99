@@ -2,23 +2,34 @@ body {
     background-color: #DAB6C4
   }
 
-.h1 {
+h1 {
   font-size: 30pt;
   font-weight: bold;
-  color: #7B886F;
 }
 
-.h2 {
+h2 {
   font-size: 20pt;
   font-weight: bold;
-  background-color: #FEFFA5;
 }
 
-.p {
+p {
   font-size: 12pt;
+}
+
+.stuff {
+  float: right;
+  width: 20%;
+  height: 100%;
+  padding: 100px;
+  background-color: #FEFFA5;
+  color: #7B886F;
+  text-align: left;
 }
 
 .footnote {
   font-size: 12pt;
   background-color: #DAB6C4;
+  text-align: center;
+  height: 50px;
+  padding: 20px;
 }
