@@ -1,3 +1,32 @@
+h1 {
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+p {
+  font-size: 12pt;
+}
+
+.title {
+  background-color: #DAB6C4;
+  text-align: center;
+  padding: 15px;
+}
+
+.stuff {
+  float: right;
+  width: 20%;
+  height: 100%;
+  padding: 100px;
+  background-color: #FEFFA5;
+  color: #7B886F;
+  text-align: left;
+}
 
 .map {
   position: relative;
